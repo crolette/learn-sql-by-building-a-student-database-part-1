@@ -51,3 +51,5 @@ pg_dump -u freecodecamp students > students.sql
 pg_dump --u freecodecamp students > students.sql
 pg_dump --username freecodecamp students > students.sql
 git add .
+git commit -m 'add database and 4 tables'
+git push
